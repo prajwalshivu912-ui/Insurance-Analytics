@@ -9,3 +9,12 @@ Total Customers
 Total Claim Amount
 Premium Growth Rate
 Policy Expire This Year
+
+## Dashboard Insights
+Dashboard Insights
+Policy distribution across age groups
+Gender-wise customer analysis
+Claim status (Approved, Pending, Denied)
+Policy type performance (Health, Life, Auto, Property)
+Premium trend analysis over time
+Payment success vs failure tracking
