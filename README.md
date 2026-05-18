@@ -6,4 +6,6 @@ This project presents an Insurance Analytics Dashboard developed using SQL, Exce
 ## Key KPIs
 Total Policy Issued
 Total Customers
-
+Total Claim Amount
+Premium Growth Rate
+Policy Expire This Year
